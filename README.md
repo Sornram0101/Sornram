@@ -1,4 +1,4 @@
 # Student Portfolio 
 Student Information
-Name : __________
+Name : Nititorn Rongrug
 Department : IT
